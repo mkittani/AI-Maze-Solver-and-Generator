@@ -23,7 +23,7 @@ This project implements a graphical tool for generating and solving mazes using 
 ## Installation
 
 ### Prerequisites
-- Python 3.7 or higher
+- `Python 3.7` or higher
 - Required libraries: `tkinter`, `math`, `heapq`
 
 ### Setup
