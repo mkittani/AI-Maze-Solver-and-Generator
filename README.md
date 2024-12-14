@@ -1,7 +1,7 @@
 
 # AI Maze Solver and Generator
 
-This project implements a graphical tool for generating and solving mazes using three fundamental search algorithms: **A\*** (A-Star Search), **Uniform Cost Search (UCS)**, and **Best-First Search (BFS)**. It provides a user-friendly graphical user interface (GUI) for generating, customizing, and solving mazes.
+This project implements a graphical tool for generating and solving mazes using three fundamental search algorithms: **A\*** (A-Star Search), **Uniform Cost Search (UCS)**, and **Best-First Search (BFS)**. It provides a user-friendly **GUI** for generating, customizing, and solving mazes.
 
 ## Features
 
