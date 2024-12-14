@@ -1,5 +1,5 @@
 
-# AI Maze Solver and Generator
+# Maze Solver and Generator
 
 This project implements a graphical tool for generating and solving mazes using three fundamental search algorithms: **A\*** (A-Star Search), **Uniform Cost Search (UCS)**, and **Best-First Search (BFS)**. It provides a user-friendly **GUI** for generating, customizing, and solving mazes.
 
@@ -29,7 +29,7 @@ This project implements a graphical tool for generating and solving mazes using 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mkittani/AI-Maze-Solver-and-Generator.git
+   git clone https://github.com/mkittani/Maze-Solver-and-Generator.git
 
 2. Install libraries (if needed):
    ```bash
