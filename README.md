@@ -75,5 +75,10 @@ Prioritizes nodes based only on the heuristic value:
   - Displays the **number of steps** required to reach the goal.  
   - Shows the **number of nodes tested** during the search.
   - ![Stats Example](./Images/2.png)
+
+## Authors
+- [@mkittani](https://github.com/mkittani)
+- [@MahmoudFarah003](https://github.com/MahmoudFarah003)
+
 ## Contributing
 Feel free to contribute by opening an issue or submitting a pull request.
