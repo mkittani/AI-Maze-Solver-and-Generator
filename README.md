@@ -3,8 +3,6 @@
 
 This project implements a graphical tool for generating and solving mazes using three fundamental search algorithms: **A\*** (A-Star Search), **Uniform Cost Search (UCS)**, and **Best-First Search (BFS)**. It provides a user-friendly graphical user interface (GUI) for generating, customizing, and solving mazes.
 
----
-
 ## Features
 
 ### Maze Generation
@@ -21,7 +19,6 @@ This project implements a graphical tool for generating and solving mazes using 
 - Display the **maze grid** with visual feedback for walls which is represented as "-1" in the code, start points, goals, and solution paths.
 - Show the **number of steps** in the solution and the **number of nodes tested**.
 
----
 
 ## Installation
 
