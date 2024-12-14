@@ -69,7 +69,9 @@ Prioritizes nodes based only on the heuristic value:
   - Start point is displayed in **blue**.  
   - Goal points are shown in **red** or **purple** (if multiple goals are defined).  
   - **The solution path is highlighted in green**.
+  ![Maze Grid Example](./images/1.png)
 
 - **Stats**:  
   - Displays the **number of steps** required to reach the goal.  
   - Shows the **number of nodes tested** during the search.
+  ![Stats Example](./images/2.png)
